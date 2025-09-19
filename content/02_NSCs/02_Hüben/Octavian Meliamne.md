@@ -23,4 +23,4 @@ Dann Ziegenherz Matsch auf dem Boden
 Gibt dafür [Flöte des Unheimlichen](/ZX_Items/Flöte-des-Unheimlichen)
 
 # Entwicklung
-Wenn Herz zurück, hüpft er fröhlich in den Sumpf und trifft irgendwann auf [Gasthaus am Ende der Straße](/00_Start/02_Hüben/Zufallsbegegnungen/Gasthaus-am-Ende-der-Straße) und muntert mit seiner Präsenz sogar [Tsu Harabax](/Tsu-Harabax) auf
+Wenn Herz zurück, hüpft er fröhlich in den Sumpf und trifft irgendwann auf [Gasthaus am Ende der Straße](/00_Start/02_Hüben/Zufallsbegegnungen/Gasthaus-am-Ende-der-Straße) und muntert mit seiner Präsenz sogar [Tsu Harabax](/02_NSCs/02_Hüben/Tsu-Harabax) auf

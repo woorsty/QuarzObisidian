@@ -17,5 +17,5 @@ Auf Sylvanisch "Sucht sofort nach [Illig](/02_NSCs/02_Hüben/Illig), dem Baron v
 Immer wenn ein [Spieler](/00_Start/Spieler/00_Spieler) einen freundlichen [Bullywug](/ZW_Regeln/Kreaturen/Bullywug) nach [Illig](/02_NSCs/02_Hüben/Illig) fragt:
 W8:
 1-3 keine Ahnung
-4-6 [N11 Versinkender Palast](/N11-Versinkender-Palast) (Falsch)
-7-8 [N16 Bullywug-Hütte](/N16-Bullywug-Hütte) (richtig)
+4-6 [N11 Versinkender Palast](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N11-Versinkender-Palast) (Falsch)
+7-8 [N16 Bullywug-Hütte](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N16-Bullywug-Hütte) (richtig)

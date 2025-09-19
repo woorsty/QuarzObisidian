@@ -24,10 +24,10 @@ Rest steht am Rand mit Speeren bedroht
 
 [Gullop XIX.](/02_NSCs/02_Hüben/Gullop-XIX.) weist Kämpfer an, für Unschuld zu kämpfen
 Wenn [Morgot](/02_NSCs/02_Hüben/Morgot) getroffen: dramatisch Tod stellen
-[Spieler](/00_Start/Spieler/00_Spieler) dann unschuldig und bekommen Titel "Wahrer Freund von [Gullop XIX.](/02_NSCs/02_Hüben/Gullop-XIX.)" und Erlaubnis [N11 Versinkender Palast](/N11-Versinkender-Palast) zu nutzen und zu rasten.
-[Morgot](/02_NSCs/02_Hüben/Morgot) wird in See geworfen und schwimmt dann zu [N2 Beschädigter Ballon](/N2-Beschädigter-Ballon) und stiehlt [Sumpfgasballon](/ZX_Items/Sumpfgasballon)
+[Spieler](/00_Start/Spieler/00_Spieler) dann unschuldig und bekommen Titel "Wahrer Freund von [Gullop XIX.](/02_NSCs/02_Hüben/Gullop-XIX.)" und Erlaubnis [N11 Versinkender Palast](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N11-Versinkender-Palast) zu nutzen und zu rasten.
+[Morgot](/02_NSCs/02_Hüben/Morgot) wird in See geworfen und schwimmt dann zu [N2 Beschädigter Ballon](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N2-Beschädigter-Ballon) und stiehlt [Sumpfgasballon](/ZX_Items/Sumpfgasballon)
 
 ## Flucht
 Wenn [Spieler](/00_Start/Spieler/00_Spieler) fliehen oder freikämpfen:
-Random [Bullywug](/ZW_Regeln/Kreaturen/Bullywug)s raten [Illig](/02_NSCs/02_Hüben/Illig) aufzusuchen in [N16 Bullywug-Hütte](/N16-Bullywug-Hütte)
+Random [Bullywug](/ZW_Regeln/Kreaturen/Bullywug)s raten [Illig](/02_NSCs/02_Hüben/Illig) aufzusuchen in [N16 Bullywug-Hütte](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N16-Bullywug-Hütte)
 

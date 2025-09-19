@@ -16,7 +16,7 @@ Haut wird hörbar rissig und sie wird träge
 Kraftlos, ungeduldig, paranoid, rachsüchtig
 Greift jeden an, der hinter ihren Schätzen her ist
 Reist auf [Treibendes Seerosenblatt](/ZX_Items/Treibendes-Seerosenblatt)
-![[PXL_20250831_234018543.jpg|300]]
+![[PXL_20250831_234018543.jpg|400]]
 ![[Pasted image 20250911151157.png]]
 Beschwört [Lorling](/02_NSCs/01_Hexenlichtjahrmarkt/Diebe-des-Zauberzirkels)e
 [Stundenglaszirkel](/05_Fraktionen/Stundenglaszirkel)

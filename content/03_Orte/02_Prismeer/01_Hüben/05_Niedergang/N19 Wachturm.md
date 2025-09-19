@@ -1,7 +1,7 @@
 ---
 slug: 03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N19-Wachturm
 ---
-Pfad aus Holzbohlen führt von Häusern [N16 Bullywug-Hütte](/N16-Bullywug-Hütte) und [N17 Königliches Reittier](/N17-Königliches-Reittier) hier hin
+Pfad aus Holzbohlen führt von Häusern [N16 Bullywug-Hütte](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N16-Bullywug-Hütte) und [N17 Königliches Reittier](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N17-Königliches-Reittier) hier hin
 
 ![[Pasted image 20250918025539.png]]
 
@@ -12,6 +12,6 @@ Gibt keine Leiter oder Treppe, da [Bullywug](/ZW_Regeln/Kreaturen/Bullywug) spri
 2 [Bullywug](/ZW_Regeln/Kreaturen/Bullywug) auf Plattform suchen mit drehbaren Fernrohr nach Gefahren (hilft nicht gegen Nebel)
 
 # Wäscheleine
-Führt zu [N12 Bavlornas Landhaus](/N12-Bavlornas-Landhaus)
+Führt zu [N12 Bavlornas Landhaus](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N12-Bavlornas-Landhaus)
 Ausgefranste Kleidungsstücke hängen drann
 Max 100Kg sonst reißen

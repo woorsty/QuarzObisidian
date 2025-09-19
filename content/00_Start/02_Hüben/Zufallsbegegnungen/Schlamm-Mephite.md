@@ -6,7 +6,7 @@ Nur [[00_Hüben#Niedrigwasser]]
 
 ![[Pasted image 20250908232218.png|300]]
 
-5 Schlamm-Mphite tauchen aus dem Schlick um den [Spieler](/00_Start/Spieler/00_Spieler)n herum auf und drohen, sie in die Tiefe zu ziehen, falls sie nicht ihre Leibspeise erraten
+5 Schlamm-Mephite tauchen aus dem Schlick um den [Spieler](/00_Start/Spieler/00_Spieler)n herum auf und drohen, sie in die Tiefe zu ziehen, falls sie nicht ihre Leibspeise erraten
 (Schlammkuchen)
 
 Jeder darf einmal raten

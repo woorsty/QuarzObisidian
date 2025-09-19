@@ -22,5 +22,5 @@ Weiter Höflinge und 3 Musiker mit Saiteninstrumenten (Alle nichtkämpfer)
 ## Wäscheleine
 An SW Ecke außen befestigt
 Hängen ausgefranste Kleidungsstücke
-Führt zu [N12 Bavlornas Landhaus](/N12-Bavlornas-Landhaus) im Nebel
+Führt zu [N12 Bavlornas Landhaus](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N12-Bavlornas-Landhaus) im Nebel
 Trägt 100 Kg zusätzlich

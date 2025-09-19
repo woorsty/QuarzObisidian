@@ -15,7 +15,7 @@ Wollte [Zyblina](/02_NSCs/Zyblina) überzeugen sich mit Titania gegen verhasste 
 Fand dann heraus, dass [Zyblina](/02_NSCs/Zyblina) von den [Vetteln](/05_Fraktionen/Stundenglaszirkel) gestürzt wurde.
 Eher er mit der Nachricht des Verrats zurückkehren konnte, wurde er von [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh) in magischen Käfig gefangen, der seine Magie einschränkt
 
-[Wackelwog](/Wackelwog) hatte Mitleid und stahl den Käfig und floh mit einem von [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh)s Ballons.
+[Wackelwog](/02_NSCs/02_Hüben/Wackelwog) hatte Mitleid und stahl den Käfig und floh mit einem von [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh)s Ballons.
 bösartiger Wind (Luftelementar) griff sie an und sie stürzten in [02_Schiefturm](/03_Orte/02_Prismeer/01_Hüben/02_Schiefturm)
 Wackelwog starb
 
@@ -35,10 +35,10 @@ Weiß:
 - [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh) kann Schergen beschwören, die wie sie selbst aussehen ([Lorling](/02_NSCs/01_Hexenlichtjahrmarkt/Diebe-des-Zauberzirkels))
 - Sie hat zwei Schwestern, die sie verabscheut, zusammen bilden die 3 [Vetteln](/05_Fraktionen/Stundenglaszirkel) den [Stundenglaszirkel](/05_Fraktionen/Stundenglaszirkel)
 - Haben durch Artefakt Namens [Iggwilvs Kessel](/ZX_Items/Iggwilvs-Kessel) die Zeit in [Zyblina](/02_NSCs/Zyblina)s Palast ([Palast Herzbegehr](/03_Orte/02_Prismeer/04_Palast Herzbegehr/Palast-Herzbegehr)) eingefroren
-- Goblinfrau [Klimperklimper](/Klimperklimper) bestitzt den Schlüssel zu Vogelkäfig und lebt auf [03_Telemy Bühl](/03_Orte/02_Prismeer/01_Hüben/03_Telemy-Bühl) nicht weit weg
+- Goblinfrau [Klimperklimper](/02_NSCs/02_Hüben/Klimperklimper) bestitzt den Schlüssel zu Vogelkäfig und lebt auf [03_Telemy Bühl](/03_Orte/02_Prismeer/01_Hüben/03_Telemy-Bühl) nicht weit weg
 
 Er bittet befreit zu werden, damit er zu seiner Königin zurück eilen kann um ihr zu berichten
-Bittet zu [Klimperklimper](/Klimperklimper) zu gehen, falls [Spieler](/00_Start/Spieler/00_Spieler) Käfig nicht öffnen können.
+Bittet zu [Klimperklimper](/02_NSCs/02_Hüben/Klimperklimper) zu gehen, falls [Spieler](/00_Start/Spieler/00_Spieler) Käfig nicht öffnen können.
 Bietet Schwert an [[02_Schiefturm#Entwicklung]]
 
 ## Persönlichkeit

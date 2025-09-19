@@ -28,7 +28,7 @@ Folgendes zu entdecken:
 ## Mit Pixies oder Keks reden
 - "Alle suchen nach dieser [[Kenku]]-Halunkin ([Kesseldampf](/02_NSCs/01_Hexenlichtjahrmarkt/Kesseldampf)), aber sie tarnt sich mit magie"
 - "[Kerzenfuß](/02_NSCs/01_Hexenlichtjahrmarkt/Kerzenfuß) und [Palasha](/02_NSCs/01_Hexenlichtjahrmarkt/Palasha) lieben sich. Jetzt hat [Kerzenfuß](/02_NSCs/01_Hexenlichtjahrmarkt/Kerzenfuß) seine Stimme verloren. Ob das wohl zur Rolle gehört"
-- "[Dudel](/02_NSCs/01_Hexenlichtjahrmarkt/Dudel) der Grottenschrat führt oft philosophische Gespräche mit einem der [Gondelschwäne](/Gondelschwäne). Er hat nicht nur Muckis sondern auch Hirn."
+- "[Dudel](/02_NSCs/01_Hexenlichtjahrmarkt/Dudel) der Grottenschrat führt oft philosophische Gespräche mit einem der [Gondelschwäne](/03_Orte/01_Hexenlichtjahrmarkt/Gondelschwäne). Er hat nicht nur Muckis sondern auch Hirn."
 # Verstecken spielen
 Zwei Pixies laden die [Spieler](/00_Start/Spieler/00_Spieler) nach einiger Zeit auf Verstecken zu spielen.
 Honigminz ist Schiedsrichterin, Sternkäfer ist Sucher.

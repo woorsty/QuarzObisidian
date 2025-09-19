@@ -12,7 +12,7 @@ Liebt Kinder
 wuchst in adligen Hochelfischenfamilie des Sommerhofs auf.
 Diente als Kindermädchen
 
-Einziges Kätzchen: [Sternchen](/Sternchen) verschwand vor ein paar Wochen
+Einziges Kätzchen: [Sternchen](/02_NSCs/01_Hexenlichtjahrmarkt/Sternchen) verschwand vor ein paar Wochen
 
 # Quest
 [Verlorenes Kind](/04_Quests/Verlorenes-Kind)

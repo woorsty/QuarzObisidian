@@ -22,5 +22,5 @@ Greifen jeden anderen an, der Wasser betritt
 
 Nach je 2 Zügen der Oger: 1W4+1 [Bullywug](/ZW_Regeln/Kreaturen/Bullywug) tauchen auf und werfen Speer auf Oger und verscheuchen sie (zumindest für eine Weile)
 
-Freuen sich helfen zu können und weisen Weg zu [N6 Seine königliche Majestät Gullop XIX.](/N6-Seine-königliche-Majestät-Gullop-XIX.)
+Freuen sich helfen zu können und weisen Weg zu [N6 Seine königliche Majestät Gullop XIX.](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N6-Seine-königliche-Majestät-Gullop-XIX.)
 Erwarten nicht, dass Fremde sich an [[Prismeer Regeln#Gegenseitigkeit]] halten.

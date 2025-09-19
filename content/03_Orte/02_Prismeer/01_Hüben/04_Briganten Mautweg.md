@@ -34,17 +34,17 @@ seine Anhänger fliehen in alle Richtungen
 
 ### Wenn überlebt
 seine Anhänger meiden ihn
-bieten [Spieler](/00_Start/Spieler/00_Spieler) eifrig und beeindruckt an, ihnen Weg nach [00_Niedergang](/05_Niedergang/00_Niedergang) zu zeigen.
+bieten [Spieler](/00_Start/Spieler/00_Spieler) eifrig und beeindruckt an, ihnen Weg nach [00_Niedergang](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/00_Niedergang) zu zeigen.
 bieten auch Kahn an
 
 ## [Spieler](/00_Start/Spieler/00_Spieler) besiegt
-[Spieler](/00_Start/Spieler/00_Spieler) landen in Käfigen vor [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh)s Landhaus ([B14 Käfige](/05_Niedergang/Landhaus/B14-Käfige))
+[Spieler](/00_Start/Spieler/00_Spieler) landen in Käfigen vor [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh)s Landhaus ([B14 Käfige](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/Landhaus/B14-Käfige))
 
 ### Infos zu [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh)
-Wenn nach [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh) oder [00_Niedergang](/05_Niedergang/00_Niedergang) gefragt:
+Wenn nach [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh) oder [00_Niedergang](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/00_Niedergang) gefragt:
 - Agdon ist Pakt mit [Klaffmaul-Lorna](/02_NSCs/Vetteln/Bavlorna-Blattenstroh) eingegangen und muss was von Beute abgeben
 - Agdon würde niemals zugeben, dass ihn vor [Klaffmaul-Lorna](/02_NSCs/Vetteln/Bavlorna-Blattenstroh), die auf einer umherkriechenden Seerose unterwegs ist die Knie schlottern
-- [00_Niedergang](/05_Niedergang/00_Niedergang) ist Heimat von [Triefhof](/05_Niedergang/Triefhof) (Gesellschaft von [Bullywug](/ZW_Regeln/Kreaturen/Bullywug), die an der sonderbaren adligen Bräuchen und Etiketten festhalten)
+- [00_Niedergang](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/00_Niedergang) ist Heimat von [Triefhof](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/Triefhof) (Gesellschaft von [Bullywug](/ZW_Regeln/Kreaturen/Bullywug), die an der sonderbaren adligen Bräuchen und Etiketten festhalten)
 
 # Großer Stumpf
 [Harengon-Briganten](/ZW_Regeln/Kreaturen/Harengon-Briganten) haben Lager auf Stumpf

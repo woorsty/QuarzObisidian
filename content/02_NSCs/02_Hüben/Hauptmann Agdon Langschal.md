@@ -22,7 +22,7 @@ Er behauptet Schal ist aus Blitzen gewoben, die er unter einer dunklen Wolke ges
 Kann nicht entfernt werden.
 Brandeisen funktioniert nur für ihn
 # Kampf
-flitzt zwischen [Spieler](/00_Start/Spieler/00_Spieler) dank Schal umher und nutzt Flinkfinger [Agdon Langschal](/Hauptmann-Agdon-Langschal)
+flitzt zwischen [Spieler](/00_Start/Spieler/00_Spieler) dank Schal umher und nutzt Flinkfinger [Agdon Langschal](/02_NSCs/02_Hüben/Hauptmann-Agdon-Langschal)
 Sehr schnell und wendig (schwer zu treffen)
 Schal greifen: SG-17 Athletik:
 > Solange jemand Schal hält: Agdon Bewegungsrate: 10,5m und kann höchstens 4,5m von Halter entfernen

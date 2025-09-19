@@ -10,7 +10,7 @@ War einst Mensch. Verlor im Kampf Schlachtross.
 Ging in Verzweiflung zu [Oma Nachtschatten](/02_NSCs/Vetteln/Skabatha-Nachtschatten)
 Beide wurden verschmolzen.
 
-Dann floh sie und traf [Jahrmarktbesitzer](/Jahrmarktbesitzer)
+Dann floh sie und traf [Jahrmarktbesitzer](/02_NSCs/01_Hexenlichtjahrmarkt/Jahrmarktbesitzer)
 # Charakter
 Sehr freundlich, aber traurige Augen.
 Wenn sie Zentaur genannt wird, korrigiert sie:

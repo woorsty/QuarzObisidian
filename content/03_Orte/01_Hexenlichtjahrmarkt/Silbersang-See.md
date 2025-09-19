@@ -18,7 +18,7 @@ Stimmung -1
 Wahrnehmung > Täuschen: Entdecken
 
 # Palascha helfen
-Versteckt sich nach Flucht im Fluss bei [Halle der Illusionen](/Halle-der-Illusionen)
+Versteckt sich nach Flucht im Fluss bei [Halle der Illusionen](/03_Orte/01_Hexenlichtjahrmarkt/Halle-der-Illusionen)
 Um sie zurückzubringen müssen [Spieler](/00_Start/Spieler/00_Spieler) eine Heldentat machen z.B. [Kerzenfuß](/02_NSCs/01_Hexenlichtjahrmarkt/Kerzenfuß) Stimme wiederbringen
 
 Wenn sie zurückkommt Stimmung +2

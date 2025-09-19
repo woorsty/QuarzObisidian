@@ -10,4 +10,4 @@ Baron von Schlickstumpf
 Ehrgeiziger Adliger, will [Triefhof](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/Triefhof)-Krone
 Versammelt sich in [N16 Bullywug-Hütte](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N16-Bullywug-Hütte)
 
-Betrachtet [Gullop XIX.](/Gullop-XIX.) als unwürdigen Hanswurst
+Betrachtet [Gullop XIX.](/02_NSCs/02_Hüben/Gullop-XIX.) als unwürdigen Hanswurst

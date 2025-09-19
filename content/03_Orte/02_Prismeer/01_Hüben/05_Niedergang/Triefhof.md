@@ -12,7 +12,7 @@ Kochte Vorgänger [[Molubb XVI.]] in Öl
 
 ständig scheint ein Putsch bevorzustehen.
 Immer wenn Aufruhr (Laute Stimmen/Kampf): 1W6+1 [Bullywug](/ZW_Regeln/Kreaturen/Bullywug)-Höflinge eilen herbei um zu erfahren, was los ist (Nur Klatsch sammeln)
-Würden im Notfall [00_Niedergang](/00_Niedergang) oder sich verteidigen
+Würden im Notfall [00_Niedergang](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/00_Niedergang) oder sich verteidigen
 
 # Bullywug-Namen
 ![[PXL_20250911_213911452.MP.jpg|400]]

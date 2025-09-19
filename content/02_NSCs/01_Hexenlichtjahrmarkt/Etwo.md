@@ -5,7 +5,7 @@ slug: 02_NSCs/01_Hexenlichtjahrmarkt/Etwo
 Bewacht [Personalbereich](/03_Orte/01_Hexenlichtjahrmarkt/Personalbereich)
 Ist nur [[Jahrmarktbesitzer#Herr Hex|Herr Hex]] loyal
 
-Mag [Dudel](/Dudel) nicht
+Mag [Dudel](/02_NSCs/01_Hexenlichtjahrmarkt/Dudel) nicht
 
 Dienstältester, keiner kennt seine Geschichte
 Spricht fast nie, hat bösartige Ader, die von [[Jahrmarktbesitzer#Herr Hex|Herr Hex]] im Zaun gehalten wird

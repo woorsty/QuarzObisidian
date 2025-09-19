@@ -2,7 +2,7 @@
 slug: ZW_Regeln/Kreaturen/Lorling
 ---
 Miniaturausgabe von [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh)
-Werte von [Flinkling](/Flinkling)
+Werte von [Flinkling](/ZW_Regeln/Kreaturen/Flinkling)
 
 Wurde von [Daniel](/00_Start/Spieler/Fizzwick-Pfiffi-Kupferpfiff) auf einem Baum auf [Hexenlichtjahrmarkt](/00_Start/01_Hexenlichtjahrmarkt/Hexenlichtjahrmarkt) gesehen
 

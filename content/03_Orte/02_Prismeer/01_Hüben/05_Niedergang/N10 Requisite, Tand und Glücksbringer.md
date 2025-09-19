@@ -8,7 +8,7 @@ slug: >-
 ![[Pasted image 20250917215134.png]]
 2 [Düsterling](/ZW_Regeln/Kreaturen/Düsterling)e "Requisite" und "Tand" passen auf [Ballon](/ZX_Items/Sumpfgasballon) auf und sind in beengten Händlerstand 
 
-Chefin [Glücksbringer](/02_NSCs/02_Hüben/Glücksbringer) besucht gerade [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh) im [N12 Bavlornas Landhaus](/N12-Bavlornas-Landhaus)
+Chefin [Glücksbringer](/02_NSCs/02_Hüben/Glücksbringer) besucht gerade [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh) im [N12 Bavlornas Landhaus](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N12-Bavlornas-Landhaus)
 
 Requisite und Tand begrüßen [Spieler](/00_Start/Spieler/00_Spieler) frech, da Geschäft eh nur Fassade
 

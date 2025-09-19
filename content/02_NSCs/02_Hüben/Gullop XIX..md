@@ -11,7 +11,7 @@ Wenn er flieht springen unbewaffnete und Schnauzel ins Wasser
 # Intrige
 Erst seit kurzem im Amt
 Unruhige Regierungszeit
-Dank [Sir Talavar](/Sir-Talavar)s Flucht stellen ihn Untertanen in Frage
+Dank [Sir Talavar](/02_NSCs/02_Hüben/Sir-Talavar)s Flucht stellen ihn Untertanen in Frage
 Paranoid aus Angst vor [Bavlorna Blattenstroh](/02_NSCs/Vetteln/Bavlorna-Blattenstroh)s Zorn
 - Auch dank Buch auf Schoß [dem Großen Buch des bösen Blutes von Bavlorna](/ZX_Items/dem-Großen-Buch-des-bösen-Blutes-von-Bavlorna)
 	- Beschreibt welchen Groll sie gegen ihre Feinde hegt

@@ -15,4 +15,4 @@ Bevor die [Spieler](/00_Start/Spieler/00_Spieler) herabsteigen, sieht der mit de
 ![[Pasted image 20250905154321.png|400]]
 
 # Weiter
-[Den Boden erreichen](/Den-Boden-erreichen)
+[Den Boden erreichen](/00_Start/02_Hüben/Den-Boden-erreichen)

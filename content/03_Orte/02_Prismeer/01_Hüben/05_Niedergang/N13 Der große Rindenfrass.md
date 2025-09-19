@@ -20,6 +20,6 @@ Geht nicht ins Wasser
 
 # Wäscheleine
 ausgefranste Kleider
-Führt zu [N12 Bavlornas Landhaus](/N12-Bavlornas-Landhaus)
+Führt zu [N12 Bavlornas Landhaus](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N12-Bavlornas-Landhaus)
 Wenn Rindenfrass sich 1,5m weg bewegt, reist die Leine in den See
 Hält 100Kg

@@ -4,10 +4,10 @@ slug: 03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N4-Ausgebrannte-Ballonfabrik
 ![[Pasted image 20250912150413.png]]
 
 Kleidung wertlos
-Leine führt zu [N12 Bavlornas Landhaus](/N12-Bavlornas-Landhaus), das vom Nebel verschleiert ist
+Leine führt zu [N12 Bavlornas Landhaus](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N12-Bavlornas-Landhaus), das vom Nebel verschleiert ist
 Kann bis zu 100 Kg tragen
 
-Gebäude ist über Rampen von [N3 Trittsteinkreuzung](/N3-Trittsteinkreuzung) und [N5 Schnatternde Köpfe](/N5-Schnatternde-Köpfe) und Treppen, die aus See emporheben.
+Gebäude ist über Rampen von [N3 Trittsteinkreuzung](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N3-Trittsteinkreuzung) und [N5 Schnatternde Köpfe](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N5-Schnatternde-Köpfe) und Treppen, die aus See emporheben.
 
 Klappriges Holzdeck hängt 1,8m über Wasser an außenseite.
 

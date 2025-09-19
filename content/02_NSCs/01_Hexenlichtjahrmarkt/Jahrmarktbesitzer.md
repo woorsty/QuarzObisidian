@@ -48,7 +48,7 @@ Schwerstreiche Familie aus [Düsterwirk](/03_Orte/Düsterwirk)
 Lernte zuhause nur Herzlosigkeit und kälte
 Hatte keine Lust mehr nur Erbe zu sein und machte das Leben der anderen schwer (besonders Eltern)
 Stolzierte nur ums Anwesen umher, schminkte und verkleidete sich.
-War erstaunt, dass [Herr Hex](/Jahrmarktbesitzer) seinen Beruf wirklich mochte und kaufte [Hexenlichtjahrmarkt](/00_Start/01_Hexenlichtjahrmarkt/Hexenlichtjahrmarkt)
+War erstaunt, dass [Herr Hex](/02_NSCs/01_Hexenlichtjahrmarkt/Jahrmarktbesitzer) seinen Beruf wirklich mochte und kaufte [Hexenlichtjahrmarkt](/00_Start/01_Hexenlichtjahrmarkt/Hexenlichtjahrmarkt)
 
 Brannte mit Herr Hex durch
 ## Beschreibung

@@ -1,7 +1,7 @@
 ---
 slug: 03_Orte/02_Prismeer/01_Hüben/03_Telemy-Bühl
 ---
-Nach [02_Schiefturm](/02_Schiefturm)
+Nach [02_Schiefturm](/03_Orte/02_Prismeer/01_Hüben/02_Schiefturm)
 
 Uraltes Feenwesen: Intelligenter Hügel, der durchs Feywild und manchmal sogar bis materielle Ebene reist
 Interagiert mit anderen über uralte Weiden auf ihn
@@ -55,7 +55,7 @@ Wenn nach Silberschlüssel gefragt:
 [Klimperklimper](/02_NSCs/02_Hüben/Klimperklimper)s Laune wird besser, Telemy-Bühl ist begeistert
 Bäume tanzen annerkennend um [Spieler](/00_Start/Spieler/00_Spieler) herum
 Einer gibt einen eisernen Schlüssel, den [Klimperklimper](/02_NSCs/02_Hüben/Klimperklimper) fallen gelassen hat
-"Er wird später noch nützlich sein" ([B19 Bavlornas Hort](/05_Niedergang/Landhaus/B19-Bavlornas-Hort))
+"Er wird später noch nützlich sein" ([B19 Bavlornas Hort](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/Landhaus/B19-Bavlornas-Hort))
 
 
 ## [Klimperklimper](/02_NSCs/02_Hüben/Klimperklimper) verletzt

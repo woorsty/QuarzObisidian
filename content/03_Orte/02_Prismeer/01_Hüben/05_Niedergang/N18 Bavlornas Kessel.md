@@ -10,7 +10,7 @@ Kehrt nach 10min zurück
 Wenn Kessel abhaut taucht [Magmin](/ZW_Regeln/Kreaturen/Magmin) aus Kohlen auf
 Stellt sich als Kohlehüter vor und fragt in Ignal: "Wollt Ihr in den Kessel?"
 Bietet an PW für trockenes Holz (liebt Geräusch, wenn es verbrennt)
-Holz in [N10 Requisite, Tand und Glücksbringer](/N10-Requisite,-Tand-und-Glücksbringer)
+Holz in [N10 Requisite, Tand und Glücksbringer](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N10-Requisite,-Tand-und-Glücksbringer)
 
 Wenn Kessel zurück: verschwindet wieder in den Kohlen
 

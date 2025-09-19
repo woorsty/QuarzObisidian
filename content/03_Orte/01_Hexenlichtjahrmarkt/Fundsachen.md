@@ -12,4 +12,4 @@ Mütter sind Essen holen.
 # Harte Zeiten
 [Dirlagraun](/02_NSCs/01_Hexenlichtjahrmarkt/Dirlagraun) ist besorgt, da [Jahrmarktbesitzer](/02_NSCs/01_Hexenlichtjahrmarkt/Jahrmarktbesitzer) angespannt wirken.
 [Spieler](/00_Start/Spieler/00_Spieler) sollen sie aber nicht fragen.
-Könnten im [Personalbereich](/Personalbereich) gehen und sie beobachten.
+Könnten im [Personalbereich](/03_Orte/01_Hexenlichtjahrmarkt/Personalbereich) gehen und sie beobachten.

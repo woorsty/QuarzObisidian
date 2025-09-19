@@ -3,7 +3,7 @@ slug: ZW_Regeln/Treibsand
 ---
 3m³
 
-Wer betritt sinkt 1W4+1 x 1/3 m tief ein und ist [Festgesetzt](/Zustand/Festgesetzt)
+Wer betritt sinkt 1W4+1 x 1/3 m tief ein und ist [Festgesetzt](/ZW_Regeln/Zustand/Festgesetzt)
 Zu beginn jedes Zuges sinkt er 1W4 x 1/3m ein
 Solange nicht vollständig versunken sind Aktionen möglich
 Entkommen: SG-(10 +3 tiefe versunken) Athletik

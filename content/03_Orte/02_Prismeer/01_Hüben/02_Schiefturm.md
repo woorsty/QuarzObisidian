@@ -39,7 +39,7 @@ Für Mittelgroße oder Kleine Kreaturen: Dolch +1
 Verabschiedet sich herzlich und fliegt davon
 "Eure Tapferkeit wird nicht vergessen sein"
 Sommerkönigin hinterlässt als Dank ein Geschenk an der Schwelle von [Palast Herzbegehr](/03_Orte/02_Prismeer/04_Palast Herzbegehr/Palast-Herzbegehr)
-Wird er nicht gerettet, reißt nach ein paar Stunden das Seil und er wird entweder von Schlangen oder [Harengon-Briganten](/ZW_Regeln/Kreaturen/Harengon-Briganten) nach [00_Niedergang](/05_Niedergang/00_Niedergang) gebracht [B5 Fundgrube der kleineren Kostbarkeiten](/05_Niedergang/Landhaus/B5-Fundgrube-der-kleineren-Kostbarkeiten) 
+Wird er nicht gerettet, reißt nach ein paar Stunden das Seil und er wird entweder von Schlangen oder [Harengon-Briganten](/ZW_Regeln/Kreaturen/Harengon-Briganten) nach [00_Niedergang](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/00_Niedergang) gebracht [B5 Fundgrube der kleineren Kostbarkeiten](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/Landhaus/B5-Fundgrube-der-kleineren-Kostbarkeiten) 
 
 # Notieren
 Ob [Sir Talavar](/02_NSCs/02_Hüben/Sir-Talavar) befreit wurde

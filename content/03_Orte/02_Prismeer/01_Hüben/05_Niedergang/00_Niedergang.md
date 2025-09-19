@@ -12,9 +12,9 @@ Wasserstand hier ist immer hoch ([Sumpfwassergezeiten](/00_Start/02_Hüben/Sumpf
 Außerhalb des Dorfs dichter Nebel (6m sichtweite)
 
 # Bewohner
-[Triefhof](/Triefhof)-[Bullywug](/ZW_Regeln/Kreaturen/Bullywug)
+[Triefhof](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/Triefhof)-[Bullywug](/ZW_Regeln/Kreaturen/Bullywug)
 ```leaflet  
-id: Hüben ### Must be unique with no spaces  
+id: Niedergang ### Must be unique with no spaces  
 image: [[PXL_20250911_214012779.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [2048, 1642]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
@@ -32,22 +32,22 @@ darkmode: false ### marker
 ```
 
 # Orte
-[N1 Kanal](/N1-Kanal)
-[N2 Beschädigter Ballon](/N2-Beschädigter-Ballon)
-[N3 Trittsteinkreuzung](/N3-Trittsteinkreuzung)
-[N4 Ausgebrannte Ballonfabrik](/N4-Ausgebrannte-Ballonfabrik)
-[N5 Schnatternde Köpfe](/N5-Schnatternde-Köpfe)
-[N6 Seine königliche Majestät Gullop XIX.](/N6-Seine-königliche-Majestät-Gullop-XIX.)
-[N7 Trübsee](/N7-Trübsee)
-[N8 Arrestzellen](/N8-Arrestzellen)
-[N9 Prüfungsgelände](/N9-Prüfungsgelände)
-[N10 Requisite, Tand und Glücksbringer](/N10-Requisite,-Tand-und-Glücksbringer)
-[N11 Versinkender Palast](/N11-Versinkender-Palast)
-[N12 Bavlornas Landhaus](/N12-Bavlornas-Landhaus)
-[N13 Der große Rindenfrass](/N13-Der-große-Rindenfrass)
-[N14 Pilzfeld](/N14-Pilzfeld)
-[N15 Bullywug-Hütte](/N15-Bullywug-Hütte)
-[N16 Bullywug-Hütte](/N16-Bullywug-Hütte)
-[N17 Königliches Reittier](/N17-Königliches-Reittier)
-[N18 Bavlornas Kessel](/N18-Bavlornas-Kessel)
-[N19 Wachturm](/N19-Wachturm)
+[N1 Kanal](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N1-Kanal)
+[N2 Beschädigter Ballon](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N2-Beschädigter-Ballon)
+[N3 Trittsteinkreuzung](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N3-Trittsteinkreuzung)
+[N4 Ausgebrannte Ballonfabrik](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N4-Ausgebrannte-Ballonfabrik)
+[N5 Schnatternde Köpfe](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N5-Schnatternde-Köpfe)
+[N6 Seine königliche Majestät Gullop XIX.](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N6-Seine-königliche-Majestät-Gullop-XIX.)
+[N7 Trübsee](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N7-Trübsee)
+[N8 Arrestzellen](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N8-Arrestzellen)
+[N9 Prüfungsgelände](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N9-Prüfungsgelände)
+[N10 Requisite, Tand und Glücksbringer](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N10-Requisite,-Tand-und-Glücksbringer)
+[N11 Versinkender Palast](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N11-Versinkender-Palast)
+[N12 Bavlornas Landhaus](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N12-Bavlornas-Landhaus)
+[N13 Der große Rindenfrass](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N13-Der-große-Rindenfrass)
+[N14 Pilzfeld](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N14-Pilzfeld)
+[N15 Bullywug-Hütte](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N15-Bullywug-Hütte)
+[N16 Bullywug-Hütte](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N16-Bullywug-Hütte)
+[N17 Königliches Reittier](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N17-Königliches-Reittier)
+[N18 Bavlornas Kessel](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N18-Bavlornas-Kessel)
+[N19 Wachturm](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/N19-Wachturm)

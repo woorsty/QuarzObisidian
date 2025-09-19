@@ -2,9 +2,9 @@
 slug: 03_Orte/02_Prismeer/Prismeer
 ---
 In 3 Splitterreiche geteilt
-[00_Hüben](/01_Hüben/00_Hüben)
-[Drüben](/02_Drüben/Drüben)
-[Anderswo](/03_Anderswo/Anderswo)
+[00_Hüben](/03_Orte/02_Prismeer/01_Hüben/00_Hüben)
+[Drüben](/03_Orte/02_Prismeer/02_Drüben/Drüben)
+[Anderswo](/03_Orte/02_Prismeer/03_Anderswo/Anderswo)
 
 # Grenzen
 Getrennt von schimmernden Nebel.
@@ -18,9 +18,9 @@ Außengrenze kann nur mit [Zyblina](/02_NSCs/Zyblina)s Genehmigung durchquert we
 # Führer
 | Führer           | Von          | Nach                                 | Standort       |
 | ---------------- | ------------ | ------------------------------------ | -------------- |
-| [Klapperklaue](/02_NSCs/Führer/Klapperklaue) | [00_Hüben](/01_Hüben/00_Hüben) | [Drüben](/02_Drüben/Drüben)                           | [00_Niedergang](/01_Hüben/05_Niedergang/00_Niedergang) |
-| [Spritzer](/02_NSCs/Führer/Spritzer)     | [Drüben](/02_Drüben/Drüben)   | [Anderswo](/03_Anderswo/Anderswo)                         |                |
-| [Amidor](/02_NSCs/Führer/Amidor)       | [Anderswo](/03_Anderswo/Anderswo) | [00_Hüben](/01_Hüben/00_Hüben) & [Palast Herzbegehr](/04_Palast Herzbegehr/Palast-Herzbegehr) |                |
+| [Klapperklaue](/02_NSCs/Führer/Klapperklaue) | [00_Hüben](/03_Orte/02_Prismeer/01_Hüben/00_Hüben) | [Drüben](/03_Orte/02_Prismeer/02_Drüben/Drüben)                           | [00_Niedergang](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/00_Niedergang) |
+| [Spritzer](/02_NSCs/Führer/Spritzer)     | [Drüben](/03_Orte/02_Prismeer/02_Drüben/Drüben)   | [Anderswo](/03_Orte/02_Prismeer/03_Anderswo/Anderswo)                         |                |
+| [Amidor](/02_NSCs/Führer/Amidor)       | [Anderswo](/03_Orte/02_Prismeer/03_Anderswo/Anderswo) | [00_Hüben](/03_Orte/02_Prismeer/01_Hüben/00_Hüben) & [Palast Herzbegehr](/03_Orte/02_Prismeer/04_Palast Herzbegehr/Palast-Herzbegehr) |                |
 
 ## Kinder
 Kinder vom Hexenlichtjahrmarkt so lange hier, dass sie Herkunft vergessen haben, aber trotzdem kaum alterten.

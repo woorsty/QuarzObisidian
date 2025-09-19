@@ -30,7 +30,7 @@ Folgende Bezahlung für Schlüssel möglich:
 - feierlicher Schwur ihre Misshandlung von [Harengon-Briganten](/ZW_Regeln/Kreaturen/Harengon-Briganten) zu rächen
 
 Hat dann folgende Infos:
-- [Agdon Langschal](/Hauptmann-Agdon-Langschal) ist Anführer. Trägt leuchtend blauen Schal und bewegt sich wie der Blitz. Man begegnet ihm, wenn man Richtung [04_Briganten Mautweg](/03_Orte/02_Prismeer/01_Hüben/04_Briganten-Mautweg) geht
+- [Agdon Langschal](/02_NSCs/02_Hüben/Hauptmann-Agdon-Langschal) ist Anführer. Trägt leuchtend blauen Schal und bewegt sich wie der Blitz. Man begegnet ihm, wenn man Richtung [04_Briganten Mautweg](/03_Orte/02_Prismeer/01_Hüben/04_Briganten-Mautweg) geht
 - [04_Briganten Mautweg](/03_Orte/02_Prismeer/01_Hüben/04_Briganten-Mautweg) ist eine Reihe alte Laufstege aus Holz, die riesen Baumstumpf umrunden. Briganten lagern auf Baumstumpf für Höhenvorteil
 - Der beste Führer in [00_Hüben](/03_Orte/02_Prismeer/01_Hüben/00_Hüben) ist [Klapperklaue](/02_NSCs/Führer/Klapperklaue), treibt sich in [00_Niedergang](/03_Orte/02_Prismeer/01_Hüben/05_Niedergang/00_Niedergang) rum und kennt sich in [Drüben](/03_Orte/02_Prismeer/02_Drüben/Drüben) aus. Dort Herrscht alte [Vettel](/05_Fraktionen/Stundenglaszirkel) [Oma Nachtschatten](/02_NSCs/Vetteln/Skabatha-Nachtschatten)
 # Waffen

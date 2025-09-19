@@ -4,8 +4,8 @@ aliases:
 slug: 00_Start/Spieler/Prof.-Dr.-Ernesto-Krabumm
 ---
 [[Gnom]] [[Magieschmied]]
-[Apfelritter](/Apfelritter)
-[Spieler](/00_Spieler)
+[Apfelritter](/00_Start/Spieler/Apfelritter)
+[Spieler](/00_Start/Spieler/00_Spieler)
 # Warum ist er weg?
 Vor einigen Wochen:
 Als Teil eines Experiments versuchte er aus wissenschaftlichen Gründen zur "Absoluten Explosion" (Sonne) zu reise. 
