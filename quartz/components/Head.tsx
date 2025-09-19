@@ -61,6 +61,7 @@ export default (() => {
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 
         {!usesCustomOgImage && (
           <>

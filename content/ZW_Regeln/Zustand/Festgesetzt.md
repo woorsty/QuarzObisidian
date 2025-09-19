@@ -1,0 +1,6 @@
+---
+slug: ZW_Regeln/Zustand/Festgesetzt
+---
+Der Festgesetzt-Zustand hängt oft mit Gepackt-Sein zusammen. Stellt euch vor, eine Kreatur umschlingt euren Helden mit ihren Tentakeln. Dadurch kann er sich nicht mehr bewegen, bis es ihm gelingt, sich loszureißen. Oder euer Charakter hängt in einem klebrigen Spinnennetz fest. Ist eine Kreatur festgesetzt, so reduziert sich ihre Bewegungsgeschwindigkeit auf 0. Angriffswürfe gegen so eine Kreatur sind im Vorteil, will sie selbst attackieren, muss sie mit Nachteil würfeln. Bei Geschicklichkeitswürfen hat eine festgesetzte Kreatur ebenfalls einen Nachteil, weil sie sich ja nicht von der Stelle bewegen kann.
+
+**Dagegen hilft:** Um euch gegen die Festsetzung zu wehren, legt ihr üblicherweise einen Konstitutionsrettungswurf ab. Manchmal ist auch ein Beweglichkeitsrettungswurf erforderlich. Misslingt euch der Rettungswurf, werdet ihr festgesetzt. Als Aktion könnt ihr aber einen Stärke-Check ausführen, um zu versuchen, den Zustand zu brechen. Wollt ihr die Festsetzung dringend loswerden, könnt ihr den Zustand mit dem Zauber _Bewegungsfreiheit_ (4. Grad) beheben. _Magie bannen_ (3. Grad) kann euch ebenfalls helfen, wenn es sich um eine magische Festsetzung handelt.
